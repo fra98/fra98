@@ -1,10 +1,10 @@
 # 💫 About Me     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/francesco-torta) 
 
-🧑🏻‍💻 Software Engineer from Italy.
+Hi, I am Software Engineer from Italy 🧑🏻‍💻
 
-☁️ Currently working on open-source **Kubernetes** projects.
+Currently working on open-source **cloud-native** and **Kubernetes** oriented projects ☁️ 
 
-💧 Core maintainer of [**liqo**](github.com/liqo.io).
+Core maintainer and contributor of ***[liqo](github.com/liqo.io)*** project 💧
 
 
 # 💻 Tech Stack:
@@ -21,7 +21,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
@@ -36,10 +35,7 @@
 
 ### ⭐ Stats
 ![](https://github-readme-stats.vercel.app/api?username=fra98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide_rank=true&hide=stars&show_icons=true&show=reviews) 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=fra98&theme=dark&hide_border=false)
+<!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=fra98&theme=dark&hide_border=false) --->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fra98&limit=4&theme=dark&combine_all_yearly_contributions=true)
-
----
