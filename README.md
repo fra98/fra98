@@ -1,13 +1,9 @@
-# 💫 About Me     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/francesco-torta) 
+## 💫 About Me     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/francesco-torta) 
 
-Hi, I am Software Engineer from Italy 🧑🏻‍💻
-
-Currently working on open-source **cloud-native** and **Kubernetes** oriented projects ☁️ 
-
+🧑🏻‍💻 Hi, I am a Software Engineer from Italy, currently working on open-source **cloud-native** and **Kubernetes** oriented projects ☁️.
 Core maintainer and contributor of ***[liqo](github.com/liqo.io)*** project 💧
 
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -31,11 +27,14 @@ Core maintainer and contributor of ***[liqo](github.com/liqo.io)*** project 💧
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-### ⭐ Stats
-![](https://github-readme-stats.vercel.app/api?username=fra98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide_rank=true&hide=stars&show_icons=true&show=reviews) 
+![](https://github-readme-stats.vercel.app/api?username=fra98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide_rank=true&hide=stars&show_icons=true&show=reviews)
+
+<!--- <img src="https://github-contributor-stats.vercel.app/api?username=fra98&limit=4&theme=dark&combine_all_yearly_contributions=true" height=204> --->
 <!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=fra98&theme=dark&hide_border=false) --->
 
+<!---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fra98&limit=4&theme=dark&combine_all_yearly_contributions=true)
+--->
