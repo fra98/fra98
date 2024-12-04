@@ -1,7 +1,7 @@
-## 💫 About Me     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/francesco-torta) 
+## 💫 About Me     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-torta) 
 
 🧑🏻‍💻 Hi, I am a Software Engineer from Italy, currently working on open-source **cloud-native** and **Kubernetes** oriented projects ☁️.
-Core maintainer and contributor of ***[liqo](github.com/liqo.io)*** project 💧
+Core maintainer and contributor of ***[liqo](https://github.com/liqo)*** project 💧
 
 ## 💻 Tech Stack
 
