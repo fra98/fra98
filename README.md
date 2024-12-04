@@ -3,7 +3,8 @@
 🧑🏻‍💻 Hi, I am a Software Engineer from Italy, currently working on open-source **cloud-native** and **Kubernetes** oriented projects ☁️.
 Core maintainer and contributor of ***[liqo](github.com/liqo.io)*** project 💧
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
+
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
@@ -27,7 +28,7 @@ Core maintainer and contributor of ***[liqo](github.com/liqo.io)*** project 💧
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=fra98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide_rank=true&hide=stars&show_icons=true&show=reviews)
 
