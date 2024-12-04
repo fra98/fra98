@@ -35,7 +35,9 @@
 # 📊 GitHub Stats:
 
 ### ⭐ Stats
-![](https://github-readme-stats.vercel.app/api?username=fra98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide_rank=true&hide=stars&show_icons=true&show=reviews) ![](https://github-readme-streak-stats.herokuapp.com/?user=fra98&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=fra98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide_rank=true&hide=stars&show_icons=true&show=reviews) 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=fra98&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fra98&limit=4&theme=dark&combine_all_yearly_contributions=true)
